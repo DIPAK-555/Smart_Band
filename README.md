@@ -26,7 +26,7 @@ This project is a smart safery band .
 
 
 
-### SMS and LOCATION DEMO
+### SMS and LOCATION DEMO 
 
 ![WhatsApp Image 2026-02-11 at 9 40 30 PM](https://github.com/user-attachments/assets/5df0be97-1afd-4a30-94d7-b83b6d014bfb)
 ![WhatsApp Image 2026-02-11 at 9 40 14 PM](https://github.com/user-attachments/assets/fc687eb7-699a-4ee4-8cc1-6464deb9e195)
